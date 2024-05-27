@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "docs"
+version = "0.1.0"
+description = ""
+authors = ["Cosmefar <analista.dados@cosmefar.com.br>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs = "^1.6.0"
+mkdocs-material = "^9.5.25"
+mkdocs-click = "^0.8.1"
+mkdocs-video = "^1.5.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

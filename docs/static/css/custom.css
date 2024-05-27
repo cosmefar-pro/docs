@@ -1,0 +1,65 @@
+/* Light mode */
+[data-md-color-scheme=default] {
+  --md-accent-fg-color:           #003CA6; /* Outline color */
+  --md-default-bg-color:          #f5f5f5; /* Page background color */
+  --md-default-fg-color:          #212121; /* Page text color */
+  --md-default-fg-color--light:   #3b3b3b; /* H1 text color */
+  --md-default-fg-color--lighter: #696969; /* Page icons color */
+  --md-default-fg-color--lightest:#a0a0a0; /* Page icons color */
+  --md-primary-fg-color:          #003CA6; /* Header background color */
+  --md-primary-fg-color--dark:    #003CA6; /* Mobile navbar background color */
+  --md-primary-bg-color:          #f5f5f5; /* Header text color */
+  --md-code-bg-color:             #ede6e6; /* Code background color */
+  --md-code-fg-color:             #000000; /* Code text color */
+  --md-code-hl-color:             #FFFF00; /* Code highlight color */
+  --md-code-hl-number-color:      #d52a2a; /* Code highlight number color */
+  --md-code-hl-special-color:     #db1457; /* Code highlight special color */
+  --md-code-hl-function-color:    #a846b9; /* Code highlight function color */
+  --md-code-hl-constant-color:    #6e59d9; /* Code highlight constant color */
+  --md-code-hl-keyword-color:     #3f6ec6; /* Code highlight keyword color */
+  --md-code-hl-string-color:      #1c7d4d; /* Code highlight string color */
+  --md-code-hl-name-color:        #69bebe; /* Code highlight name color */
+  --md-code-hl-operator-color:    #a0a0a0;
+  --md-code-hl-punctuation-color: #a0a0a0;
+  --md-code-hl-comment-color:     #a0a0a0;
+  --md-code-hl-generic-color:     #a0a0a0;
+  --md-code-hl-variable-color:    #a0a0a0;
+  --md-typeset-a-color:           #003CA6; /* URLs color */
+  --md-footer-bg-color:           #003CA6; /* Footer background color */
+  --md-footer-fg-color:           #FAFAFA; /* Footer text color */
+  --md-footer-fg-color--light:    #DADADA; /* Footer text and icons color */
+  --md-footer-fg-color--lighter:  #7A7A7A; /* Footer text color */
+}
+
+/* Dark mode */
+[data-md-color-scheme=slate] {
+  --md-accent-fg-color:           #003CA6; /* Outline color */
+  --md-default-bg-color:          #0A0A0A; /* Page background color */
+  --md-default-fg-color:          #FAFAFA; /* Page text color */
+  --md-default-fg-color--light:   #FAFAFA; /* H1 text color */
+  --md-default-fg-color--lighter: #DADADA; /* Page icons color */
+  --md-default-fg-color--lightest:#7A7A7A; /* Page icons color */
+  --md-primary-fg-color:          #003CA6; /* Header background color */
+  --md-primary-fg-color--dark:    #003CA6; /* Mobile navbar background color */
+  --md-primary-bg-color:          #FAFAFA; /* Header text color */
+  --md-code-bg-color:             #2A2A2A; /* Code background color */
+  --md-code-fg-color:             #91baba; /* Code text color */
+  --md-code-hl-color:             #FFFF00; /* Code highlight color */
+  --md-code-hl-number-color:      #d52a2a; /* Code highlight number color */
+  --md-code-hl-special-color:     #db1457; /* Code highlight special color */
+  --md-code-hl-function-color:    #a846b9; /* Code highlight function color */
+  --md-code-hl-constant-color:    #6e59d9; /* Code highlight constant color */
+  --md-code-hl-keyword-color:     #3f6ec6; /* Code highlight keyword color */
+  --md-code-hl-string-color:      #1c7d4d; /* Code highlight string color */
+  --md-code-hl-name-color:        #69bebe; /* Code highlight name color */
+  --md-code-hl-operator-color:    #a0a0a0;
+  --md-code-hl-punctuation-color: #a0a0a0;
+  --md-code-hl-comment-color:     #a0a0a0;
+  --md-code-hl-generic-color:     #a0a0a0;
+  --md-code-hl-variable-color:    #a0a0a0;
+  --md-typeset-a-color:           #003CA6; /* URLs color */
+  --md-footer-bg-color:           #003CA6; /* Footer background color */
+  --md-footer-fg-color:           #FAFAFA; /* Footer text color */
+  --md-footer-fg-color--light:    #DADADA; /* Footer text and icons color */
+  --md-footer-fg-color--lighter:  #7A7A7A; /* Footer text color */
+}
