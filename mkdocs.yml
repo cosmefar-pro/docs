@@ -13,6 +13,7 @@ nav:
       - Desenvolvimento de pipelines local: guia-desenvolvedores/pipelines.md
       - Deployment de pipelines na cloud: guia-desenvolvedores/pipelines-cloud.md
       - Publicando dados com DBT: guia-desenvolvedores/dbt.md
+      - Transformação local com Airflow + dbt: guia-desenvolvedores/airflow-dbt-transformacao.md
 
     - Governança:
       - Governança de Acessos e Compartilhamento: governanca/governanca.md
